@@ -1,2 +1,2 @@
-# MachineLearningProjects
-Just a space for whatever personal projects I want in machine learning
+# Credit Card Fraud Detection
+A machine learning project applying different classification algorithms to detect whether a credit card transaction is fraud or not.
